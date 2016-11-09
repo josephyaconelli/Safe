@@ -1,0 +1,14 @@
+{
+  "name": "safeapp",
+  "version": "1.0.0",
+  "description": "An App for the Worried Mother in All of Us",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "944544975164",
+    "project_id": "firebase-safe-app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944544975164:android:c805ad36d2637f68",
+        "android_client_info": {
+          "package_name": "com.josephyaconelli.safe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWTWHNVhT9-FWeqgwcdEq1jOCkkf-qhBU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-80463512-1"
+          }
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
